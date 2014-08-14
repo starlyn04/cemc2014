@@ -5,7 +5,8 @@ public class HelloWorld {
 	System.out.println("Hey, yo!");
 	System.out.println("new branch now");
 
-	return;
+	System.out.println("bad");
+
     }
 
 }
